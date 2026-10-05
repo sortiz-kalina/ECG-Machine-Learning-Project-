@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Local environment variables
+.env
+
+# Model/data artifacts
+*.npz
+*.npy
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Data folder (usually keep this local)
+data/
